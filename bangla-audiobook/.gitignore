@@ -1,0 +1,15 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Transient TTS artifacts (normally created inside a workdir, never committed)
+*.part
+*.tmp_synth

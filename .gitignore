@@ -1,0 +1,18 @@
+# Only bangla-audiobook and translateBan are published from this folder
+ask-matt/
+grill-me/
+grill-with-docs/
+grilling/
+implement/
+improve-codebase-architecture/
+prototype/
+research/
+setup-matt-pocock-skills/
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+
+# OS cruft
+Thumbs.db
+.DS_Store
